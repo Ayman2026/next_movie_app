@@ -5,7 +5,8 @@ import SearchBox from "@/components/SearchBox";
 import ThemeCom from "@/components/ThemeCom";
 import { ClerkProvider } from "@clerk/nextjs";
 
-export const metadata = {
+export const metadata =
+ {
   title: "MovieMeter ",
   description: "Track and explore movies",
 };
