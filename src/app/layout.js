@@ -6,7 +6,9 @@ import ThemeCom from "@/components/ThemeCom";
 import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata =
- {
+
+
+{
   title: "MovieMeter ",
   description: "Track and explore movies",
 };
