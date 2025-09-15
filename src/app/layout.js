@@ -9,9 +9,6 @@ export const metadata =
 
 
 
-
-
-
 {
   title: "MovieMeter ",
   description: "Track and explore movies",
